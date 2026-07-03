@@ -1,8 +1,11 @@
-## Hi there 👋 I'm Adriana!
+## Hii, I'm Adriana!✨
+<i>I can become your favorite multidisciplinary person.</i>🥰 <br>
 
-Graphic and web designer, artist, photographer, and now trying to become a programmer.
+Graphic and web designer, artist, photographer, and now becoming a programmer.
 
-✷
+✷ In love with making ideas come true <br>
+✷ Trying to be a full stack <br>
+✷ Currently learning: java and python<br>
 <!--
 **vadrianap/vadrianap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

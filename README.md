@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Adriana!
 
+Graphic and web designer, artist, photographer, and now trying to become a programmer.
+
+✷
 <!--
 **vadrianap/vadrianap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
